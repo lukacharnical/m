@@ -1,0 +1,5 @@
+"homepage": "https://TON_USER.github.io/photo-contest",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
